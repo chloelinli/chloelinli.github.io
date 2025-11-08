@@ -16,10 +16,6 @@ Advanced medicine and technology have contributed to an increased birth rate, co
 
 **Skills**: Microsoft Excel/Google Sheets
 
-## In Progress
-### [Sales Data Analysis](https://github.com/chloelinli/chloelinli.github.io/tree/main/sales_data_analysis)
-**Skills**: SQL, Microsoft Excel/Google SHeets
-
 ### [My Personal Spotify Listening Habits](https://github.com/chloelinli/chloelinli.github.io/tree/main/spotify_listening)
 I wanted to see how the type of music I used to and currently listen to may affect my future music taste. Using my Spotify streaming history from the past year, I cleaned and queried the data so that I could have the top 50 most listened to songs to analyze and compare to the music phases I had gone through.
 - [x] Spotify streaming history
